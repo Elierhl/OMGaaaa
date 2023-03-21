@@ -1,1 +1,1 @@
-ElJoker63={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '---', 'moodle_repo_id': 4, 'moodle_user': '---', 'moodle_password': '---', 'isadmin': 1, 'zips': 7, 'uploadtype': 'evidence', 'proxy': '', 'token': 0, 'xdmode': 0}
+cfgelier={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '---', 'moodle_repo_id': 4, 'moodle_user': '---', 'moodle_password': '---', 'isadmin': 1, 'zips': 7, 'uploadtype': 'evidence', 'proxy': '', 'token': 0, 'xdmode': 0}
